@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SMPL",
-    "fetch_date": "2026-07-15T14:56:01.691790",
+    "fetch_date": "2026-10-14T17:51:14.705370",
     "quarterly_revenue": {
       "2025-02-28 00:00:00": NaN,
       "2025-05-31 00:00:00": 380956000.0,
@@ -26,7 +26,6 @@
     "margin_change": 0.92,
     "operating_margin": 9.0,
     "quarterly_inventory": {
-      "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": NaN,
       "2025-05-31 00:00:00": 164464000.0,
       "2025-08-31 00:00:00": 167217000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.46,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:56:01.693278"
+  "fetched_at": "2026-10-14T17:51:14.706683"
 }

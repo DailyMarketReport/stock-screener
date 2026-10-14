@@ -8602,5 +8602,33 @@
   "SOTK": {
     "last_updated": "2026-10-09T19:08:17.604576",
     "in_earnings_season": false
+  },
+  "FBLA": {
+    "last_updated": "2026-10-14T17:20:15.559344",
+    "in_earnings_season": false
+  },
+  "IBEX": {
+    "last_updated": "2026-10-14T17:27:31.735062",
+    "in_earnings_season": false
+  },
+  "LB": {
+    "last_updated": "2026-10-14T17:31:53.590339",
+    "in_earnings_season": false
+  },
+  "NPK": {
+    "last_updated": "2026-10-14T17:38:51.714413",
+    "in_earnings_season": false
+  },
+  "SMPL": {
+    "last_updated": "2026-10-14T17:51:14.708403",
+    "in_earnings_season": false
+  },
+  "SOMN": {
+    "last_updated": "2026-10-14T17:51:44.854645",
+    "in_earnings_season": false
+  },
+  "WING": {
+    "last_updated": "2026-10-14T18:00:07.658754",
+    "in_earnings_season": false
   }
 }

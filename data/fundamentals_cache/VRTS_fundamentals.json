@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "VRTS",
-    "fetch_date": "2026-08-14T14:21:32.788559",
+    "fetch_date": "2026-10-15T17:46:10.252797",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 209492000.0,
       "2025-09-30 00:00:00": 215148000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 11.87,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:21:32.789869"
+  "fetched_at": "2026-10-15T17:46:10.253773"
 }

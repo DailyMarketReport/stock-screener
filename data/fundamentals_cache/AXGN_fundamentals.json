@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AXGN",
-    "fetch_date": "2026-08-13T13:33:03.703742",
+    "fetch_date": "2026-10-15T16:52:37.405535",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 56662000.0,
@@ -26,7 +26,6 @@
     "margin_change": -2.49,
     "operating_margin": -3.09,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 36774000.0,
       "2025-09-30 00:00:00": 40581000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.679,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-13T13:33:03.705430"
+  "fetched_at": "2026-10-15T16:52:37.406811"
 }

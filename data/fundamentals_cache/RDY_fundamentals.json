@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RDY",
-    "fetch_date": "2026-07-28T15:14:03.981395",
+    "fetch_date": "2026-10-15T17:33:37.036928",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 85452000000.0,
@@ -26,7 +26,6 @@
     "margin_change": -10.74,
     "operating_margin": 3.76,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 75600000000.0,
       "2025-09-30 00:00:00": 75821000000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.997,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-28T15:14:03.982826"
+  "fetched_at": "2026-10-15T17:33:37.038197"
 }

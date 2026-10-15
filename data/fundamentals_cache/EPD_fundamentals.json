@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EPD",
-    "fetch_date": "2026-08-14T13:41:10.129015",
+    "fetch_date": "2026-10-15T17:06:01.570292",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 11363000000.0,
@@ -26,7 +26,6 @@
     "margin_change": -1.02,
     "operating_margin": 11.71,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 3969000000.0,
       "2025-09-30 00:00:00": 4160000000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.255,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T13:41:10.130808"
+  "fetched_at": "2026-10-15T17:06:01.571544"
 }

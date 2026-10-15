@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ENSG",
-    "fetch_date": "2026-08-10T13:43:42.970479",
+    "fetch_date": "2026-10-15T17:05:48.442785",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 1227769000.0,
       "2025-09-30 00:00:00": 1296405000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 8.5,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-10T13:43:42.971627"
+  "fetched_at": "2026-10-15T17:05:48.443779"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PKE",
-    "fetch_date": "2026-08-14T14:06:02.628296",
+    "fetch_date": "2026-10-15T17:30:42.866016",
     "quarterly_revenue": {
       "2025-02-28 00:00:00": NaN,
       "2025-05-31 00:00:00": 15400000.0,
@@ -26,7 +26,6 @@
     "margin_change": 6.15,
     "operating_margin": 21.93,
     "quarterly_inventory": {
-      "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": NaN,
       "2025-05-31 00:00:00": 6763000.0,
       "2025-08-31 00:00:00": 8101000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.426,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:06:02.630008"
+  "fetched_at": "2026-10-15T17:30:42.867273"
 }

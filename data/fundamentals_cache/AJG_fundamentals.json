@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AJG",
-    "fetch_date": "2026-08-14T13:23:52.919375",
+    "fetch_date": "2026-10-15T16:48:55.417569",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 3222000000.0,
       "2025-09-30 00:00:00": 3365600000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 14.69,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T13:23:52.920729"
+  "fetched_at": "2026-10-15T16:48:55.418580"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ZVRA",
-    "fetch_date": "2026-08-14T14:24:36.737014",
+    "fetch_date": "2026-10-15T17:49:15.247244",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 25881000.0,
@@ -26,7 +26,6 @@
     "margin_change": 1.39,
     "operating_margin": 42.3,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 1108000.0,
       "2025-09-30 00:00:00": 1367000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.062,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:24:36.738781"
+  "fetched_at": "2026-10-15T17:49:15.248493"
 }

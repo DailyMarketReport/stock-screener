@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "KN",
-    "fetch_date": "2026-08-14T13:53:16.363320",
+    "fetch_date": "2026-10-15T17:18:02.661368",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 145900000.0,
@@ -26,7 +26,6 @@
     "margin_change": 0.9,
     "operating_margin": 14.87,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 119700000.0,
       "2025-09-30 00:00:00": 123900000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.882,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T13:53:16.365049"
+  "fetched_at": "2026-10-15T17:18:02.662632"
 }

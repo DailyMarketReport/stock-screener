@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BWIN",
-    "fetch_date": "2026-08-13T13:36:53.832414",
+    "fetch_date": "2026-10-15T16:56:26.336938",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 374312000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 0.81,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-13T13:36:53.833770"
+  "fetched_at": "2026-10-15T16:56:26.337936"
 }

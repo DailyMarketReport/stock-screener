@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ATEC",
-    "fetch_date": "2026-08-11T13:26:40.741876",
+    "fetch_date": "2026-10-15T16:51:49.358140",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 185544000.0,
@@ -26,7 +26,6 @@
     "margin_change": 1.13,
     "operating_margin": -0.93,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 169760000.0,
       "2025-09-30 00:00:00": 166890000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.913,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-11T13:26:40.743024"
+  "fetched_at": "2026-10-15T16:51:49.359380"
 }

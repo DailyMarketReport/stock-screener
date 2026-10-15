@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CL",
-    "fetch_date": "2026-08-13T13:39:32.287324",
+    "fetch_date": "2026-10-15T16:59:06.685050",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 5110000000.0,
@@ -26,7 +26,6 @@
     "margin_change": 0.89,
     "operating_margin": 18.95,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 2120000000.0,
       "2025-09-30 00:00:00": 2109000000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.407,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-13T13:39:32.289053"
+  "fetched_at": "2026-10-15T16:59:06.686316"
 }

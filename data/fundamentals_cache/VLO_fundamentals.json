@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "VLO",
-    "fetch_date": "2026-08-14T14:21:04.118463",
+    "fetch_date": "2026-10-15T17:45:42.301477",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 29889000000.0,
@@ -26,7 +26,6 @@
     "margin_change": 5.97,
     "operating_margin": 11.68,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 7538000000.0,
       "2025-09-30 00:00:00": 7394000000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.171,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:21:04.120182"
+  "fetched_at": "2026-10-15T17:45:42.302768"
 }

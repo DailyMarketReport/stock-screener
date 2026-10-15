@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "APPN",
-    "fetch_date": "2026-08-12T13:29:27.006108",
+    "fetch_date": "2026-10-15T16:50:45.302298",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 170640000.0,
       "2025-09-30 00:00:00": 187004000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -2.68,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-12T13:29:27.007466"
+  "fetched_at": "2026-10-15T16:50:45.303277"
 }

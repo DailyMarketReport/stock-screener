@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EXPO",
-    "fetch_date": "2026-08-14T13:42:06.057177",
+    "fetch_date": "2026-10-15T17:06:59.660012",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 141962000.0,
       "2025-09-30 00:00:00": 147120000.0,
@@ -23,5 +23,5 @@
     "operating_margin": 16.33,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T13:42:06.058187"
+  "fetched_at": "2026-10-15T17:06:59.660773"
 }

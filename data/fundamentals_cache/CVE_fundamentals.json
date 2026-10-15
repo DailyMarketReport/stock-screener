@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CVE",
-    "fetch_date": "2026-08-13T13:42:20.312281",
+    "fetch_date": "2026-10-15T17:01:52.526226",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 12319000000.0,
@@ -26,7 +26,6 @@
     "margin_change": -0.96,
     "operating_margin": 22.43,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 3917000000.0,
       "2025-09-30 00:00:00": 3126000000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.228,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-13T13:42:20.313971"
+  "fetched_at": "2026-10-15T17:01:52.527515"
 }

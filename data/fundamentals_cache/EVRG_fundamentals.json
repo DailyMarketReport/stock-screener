@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EVRG",
-    "fetch_date": "2026-08-14T13:41:51.102539",
+    "fetch_date": "2026-10-15T17:06:44.693127",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 1437000000.0,
@@ -26,7 +26,6 @@
     "margin_change": 2.16,
     "operating_margin": 25.08,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 845700000.0,
       "2025-09-30 00:00:00": 817000000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.578,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T13:41:51.104378"
+  "fetched_at": "2026-10-15T17:06:44.694387"
 }

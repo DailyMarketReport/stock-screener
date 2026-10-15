@@ -1,9 +1,8 @@
 {
   "data": {
     "ticker": "RVMD",
-    "fetch_date": "2026-08-14T14:10:45.470104",
+    "fetch_date": "2026-10-15T17:35:22.912089",
     "quarterly_revenue": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 0.0,
       "2025-09-30 00:00:00": 0.0,
@@ -14,7 +13,6 @@
     "revenue_qoq_change": null,
     "revenue_yoy_change": null,
     "quarterly_eps": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": -1.31,
       "2025-09-30 00:00:00": -1.61,
@@ -27,5 +25,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:10:45.471154"
+  "fetched_at": "2026-10-15T17:35:22.912822"
 }

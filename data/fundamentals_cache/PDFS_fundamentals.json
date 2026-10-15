@@ -1,9 +1,8 @@
 {
   "data": {
     "ticker": "PDFS",
-    "fetch_date": "2026-08-14T14:05:13.559514",
+    "fetch_date": "2026-10-15T17:29:54.715065",
     "quarterly_revenue": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 51728000.0,
       "2025-09-30 00:00:00": 57115000.0,
@@ -14,7 +13,6 @@
     "revenue_qoq_change": 2.326625644437053,
     "revenue_yoy_change": 18.947185276832663,
     "quarterly_eps": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 0.03,
       "2025-09-30 00:00:00": 0.03,
@@ -25,9 +23,9 @@
     "eps_qoq_change": -16.66666666666666,
     "eps_yoy_change": 233.33333333333334,
     "gross_margin": 68.95,
-    "margin_change": -2.88,
+    "margin_change": NaN,
     "operating_margin": 8.23,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:05:13.560856"
+  "fetched_at": "2026-10-15T17:29:54.716061"
 }

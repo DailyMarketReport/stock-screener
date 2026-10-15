@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ADMA",
-    "fetch_date": "2026-08-13T13:28:00.778805",
+    "fetch_date": "2026-10-15T16:47:39.564785",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 121984000.0,
@@ -26,7 +26,6 @@
     "margin_change": -1.17,
     "operating_margin": 42.16,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 191464000.0,
       "2025-09-30 00:00:00": 196667000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 1.924,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-13T13:28:00.780495"
+  "fetched_at": "2026-10-15T16:47:39.566054"
 }

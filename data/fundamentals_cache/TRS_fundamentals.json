@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TRS",
-    "fetch_date": "2026-08-14T14:18:13.679503",
+    "fetch_date": "2026-10-15T17:42:51.236821",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 171750000.0,
@@ -26,7 +26,6 @@
     "margin_change": -1.67,
     "operating_margin": 6.21,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 216900000.0,
       "2025-09-30 00:00:00": 227210000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.667,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:18:13.681262"
+  "fetched_at": "2026-10-15T17:42:51.238076"
 }

@@ -1,9 +1,8 @@
 {
   "data": {
     "ticker": "DNLI",
-    "fetch_date": "2026-08-13T13:44:07.208246",
+    "fetch_date": "2026-10-15T17:03:37.431931",
     "quarterly_revenue": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 0.0,
       "2025-09-30 00:00:00": 0.0,
@@ -14,7 +13,6 @@
     "revenue_qoq_change": null,
     "revenue_yoy_change": null,
     "quarterly_eps": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": -0.72,
       "2025-09-30 00:00:00": -0.74,
@@ -28,7 +26,6 @@
     "margin_change": 97.42,
     "operating_margin": -3622.11,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": NaN,
       "2025-09-30 00:00:00": NaN,
@@ -40,5 +37,5 @@
     "inventory_to_sales_ratio": 1.148,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-13T13:44:07.209878"
+  "fetched_at": "2026-10-15T17:03:37.433172"
 }

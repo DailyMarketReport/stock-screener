@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ICE",
-    "fetch_date": "2026-08-10T13:52:41.987789",
+    "fetch_date": "2026-10-15T17:14:45.869545",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 3262000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 38.85,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-10T13:52:41.988982"
+  "fetched_at": "2026-10-15T17:14:45.870519"
 }

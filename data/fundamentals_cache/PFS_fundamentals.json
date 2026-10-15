@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PFS",
-    "fetch_date": "2026-08-14T14:05:39.574168",
+    "fetch_date": "2026-10-15T17:30:20.733542",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 214169000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 9.09090909090908,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:05:39.574857"
+  "fetched_at": "2026-10-15T17:30:20.734097"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RGEN",
-    "fetch_date": "2026-08-14T14:09:28.722003",
+    "fetch_date": "2026-10-15T17:34:05.954622",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 182366000.0,
@@ -26,7 +26,6 @@
     "margin_change": -1.84,
     "operating_margin": 9.31,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 155862000.0,
       "2025-09-30 00:00:00": 160320000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.914,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-14T14:09:28.723754"
+  "fetched_at": "2026-10-15T17:34:05.955892"
 }

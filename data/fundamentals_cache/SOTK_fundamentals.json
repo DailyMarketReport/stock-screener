@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SOTK",
-    "fetch_date": "2026-10-09T19:08:17.601236",
+    "fetch_date": "2026-10-19T19:30:53.768319",
     "quarterly_revenue": {
       "2025-05-31 00:00:00": 5132773.0,
       "2025-08-31 00:00:00": 5162696.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.718,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-09T19:08:17.602857"
+  "fetched_at": "2026-10-19T19:30:53.770144"
 }

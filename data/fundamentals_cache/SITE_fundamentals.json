@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SITE",
-    "fetch_date": "2026-10-15T17:37:32.107406",
+    "fetch_date": "2026-10-22T17:51:37.591379",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 1461600000.0,
       "2025-09-30 00:00:00": 1258200000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.714,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:37:32.108668"
+  "fetched_at": "2026-10-22T17:51:37.593298"
 }

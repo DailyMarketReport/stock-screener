@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NRIX",
-    "fetch_date": "2026-10-15T17:26:07.746453",
+    "fetch_date": "2026-10-22T17:40:12.438511",
     "quarterly_revenue": {
       "2025-02-28 00:00:00": NaN,
       "2025-05-31 00:00:00": 44056000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -1041.73,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:26:07.747247"
+  "fetched_at": "2026-10-22T17:40:12.439611"
 }

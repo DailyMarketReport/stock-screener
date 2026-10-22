@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NUE",
-    "fetch_date": "2026-10-15T17:26:31.839610",
+    "fetch_date": "2026-10-22T17:40:36.621353",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 8456000000.0,
       "2025-09-30 00:00:00": 8521000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.579,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:26:31.840891"
+  "fetched_at": "2026-10-22T17:40:36.623319"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CHEF",
-    "fetch_date": "2026-10-15T16:58:32.411807",
+    "fetch_date": "2026-10-22T17:12:34.901547",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 1034906000.0,
       "2025-09-30 00:00:00": 1021319000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.325,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T16:58:32.413061"
+  "fetched_at": "2026-10-22T17:12:34.903494"
 }

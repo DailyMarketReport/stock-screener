@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FBNC",
-    "fetch_date": "2026-10-15T17:07:21.529967",
+    "fetch_date": "2026-10-22T17:21:27.190908",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 109443000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 31.18279569892472,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:07:21.530511"
+  "fetched_at": "2026-10-22T17:21:27.191701"
 }

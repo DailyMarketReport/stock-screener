@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CSTL",
-    "fetch_date": "2026-10-15T17:01:21.617674",
+    "fetch_date": "2026-10-22T17:15:24.068885",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 86188000.0,
       "2025-09-30 00:00:00": 83043000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.102,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:01:21.618948"
+  "fetched_at": "2026-10-22T17:15:24.070895"
 }

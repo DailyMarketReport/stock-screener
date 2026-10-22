@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LLYVA",
-    "fetch_date": "2026-10-15T17:19:55.468014",
+    "fetch_date": "2026-10-22T17:34:01.458041",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 47059000.0,
       "2025-06-30 00:00:00": 138603000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -0.64,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:19:55.469032"
+  "fetched_at": "2026-10-22T17:34:01.459538"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SCI",
-    "fetch_date": "2026-10-15T17:36:12.987998",
+    "fetch_date": "2026-10-22T17:50:18.689939",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 1065444000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.035,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:36:12.989260"
+  "fetched_at": "2026-10-22T17:50:18.691820"
 }

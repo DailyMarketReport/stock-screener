@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HWKN",
-    "fetch_date": "2026-10-15T17:14:20.735409",
+    "fetch_date": "2026-10-22T17:28:26.274466",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 293272000.0,
       "2025-09-30 00:00:00": 280434000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.253,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:14:20.736662"
+  "fetched_at": "2026-10-22T17:28:26.276478"
 }

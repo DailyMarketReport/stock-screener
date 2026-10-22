@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TSLA",
-    "fetch_date": "2026-10-15T17:43:02.211749",
+    "fetch_date": "2026-10-22T17:57:08.798109",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 22496000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.487,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:43:02.213017"
+  "fetched_at": "2026-10-22T17:57:08.800076"
 }

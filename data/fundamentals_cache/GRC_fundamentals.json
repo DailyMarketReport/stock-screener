@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GRC",
-    "fetch_date": "2026-10-15T17:11:32.835014",
+    "fetch_date": "2026-10-22T17:25:38.308236",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 179045000.0,
       "2025-09-30 00:00:00": 172825000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.468,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:11:32.836271"
+  "fetched_at": "2026-10-22T17:25:38.310232"
 }

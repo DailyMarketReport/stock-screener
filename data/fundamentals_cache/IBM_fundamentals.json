@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "IBM",
-    "fetch_date": "2026-10-15T17:14:38.659795",
+    "fetch_date": "2026-10-22T17:28:44.377476",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 16977000000.0,
       "2025-09-30 00:00:00": 16331000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.102,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:14:38.661049"
+  "fetched_at": "2026-10-22T17:28:44.379425"
 }

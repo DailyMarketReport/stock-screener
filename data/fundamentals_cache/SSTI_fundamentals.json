@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SSTI",
-    "fetch_date": "2026-10-15T17:39:37.089775",
+    "fetch_date": "2026-10-22T17:53:43.587442",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 25889000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -19.48,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:39:37.090755"
+  "fetched_at": "2026-10-22T17:53:43.588953"
 }

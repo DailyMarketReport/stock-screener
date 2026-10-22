@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PTGX",
-    "fetch_date": "2026-10-15T17:32:13.706332",
+    "fetch_date": "2026-10-22T17:46:18.454256",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 5546000.0,
       "2025-09-30 00:00:00": 4712000.0,
@@ -23,5 +23,5 @@
     "operating_margin": 74.37,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:32:13.707103"
+  "fetched_at": "2026-10-22T17:46:18.455360"
 }

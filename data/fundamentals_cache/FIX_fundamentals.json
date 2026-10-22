@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FIX",
-    "fetch_date": "2026-10-15T17:08:15.557523",
+    "fetch_date": "2026-10-22T17:22:21.213947",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 2173319000.0,
       "2025-09-30 00:00:00": 2450969000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.032,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:08:15.558809"
+  "fetched_at": "2026-10-22T17:22:21.215939"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MG",
-    "fetch_date": "2026-10-15T17:22:16.592328",
+    "fetch_date": "2026-10-22T17:36:21.214492",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 185405000.0,
       "2025-09-30 00:00:00": 195549000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.087,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:22:16.593577"
+  "fetched_at": "2026-10-22T17:36:21.216457"
 }

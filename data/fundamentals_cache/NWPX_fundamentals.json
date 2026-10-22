@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NWPX",
-    "fetch_date": "2026-10-15T17:26:52.652009",
+    "fetch_date": "2026-10-22T17:40:57.470155",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 133182000.0,
       "2025-09-30 00:00:00": 151067000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.571,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:26:52.653259"
+  "fetched_at": "2026-10-22T17:40:57.472121"
 }

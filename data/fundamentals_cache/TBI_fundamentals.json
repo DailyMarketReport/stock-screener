@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TBI",
-    "fetch_date": "2026-10-15T17:40:56.070134",
+    "fetch_date": "2026-10-22T17:55:02.654956",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 396299000.0,
       "2025-09-30 00:00:00": 431266000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 0.42,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:40:56.071126"
+  "fetched_at": "2026-10-22T17:55:02.656430"
 }

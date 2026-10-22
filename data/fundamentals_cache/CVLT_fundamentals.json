@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CVLT",
-    "fetch_date": "2026-10-15T17:01:57.659817",
+    "fetch_date": "2026-10-22T17:16:01.176159",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 281978000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 8.95,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:01:57.660805"
+  "fetched_at": "2026-10-22T17:16:01.177675"
 }

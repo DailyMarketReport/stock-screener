@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PLXS",
-    "fetch_date": "2026-10-15T17:31:01.764556",
+    "fetch_date": "2026-10-22T17:45:06.686273",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 1018308000.0,
       "2025-09-30 00:00:00": 1058366000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 1.141,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:31:01.765836"
+  "fetched_at": "2026-10-22T17:45:06.688235"
 }

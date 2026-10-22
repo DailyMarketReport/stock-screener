@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MRSH",
-    "fetch_date": "2026-10-15T17:23:34.713745",
+    "fetch_date": "2026-10-22T17:37:38.447349",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 6974000000.0,
       "2025-09-30 00:00:00": 6351000000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 25.65,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:23:34.714733"
+  "fetched_at": "2026-10-22T17:37:38.448814"
 }

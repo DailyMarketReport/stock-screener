@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NTWK",
-    "fetch_date": "2026-10-15T17:26:28.500625",
+    "fetch_date": "2026-10-22T17:40:33.504006",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 17543957.0,
       "2025-06-30 00:00:00": 18409113.0,
@@ -25,5 +25,5 @@
     "operating_margin": 15.16,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:26:28.501595"
+  "fetched_at": "2026-10-22T17:40:33.505455"
 }

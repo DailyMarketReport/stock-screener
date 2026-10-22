@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SSNC",
-    "fetch_date": "2026-10-15T17:39:33.099084",
+    "fetch_date": "2026-10-22T17:53:39.883366",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 1536800000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 24.6,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:39:33.100085"
+  "fetched_at": "2026-10-22T17:53:39.884852"
 }

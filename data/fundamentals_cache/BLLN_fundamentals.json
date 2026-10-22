@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BLLN",
-    "fetch_date": "2026-10-15T16:54:44.340005",
+    "fetch_date": "2026-10-22T17:08:47.873450",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 66573000.0,
       "2025-09-30 00:00:00": 83523000.0,
@@ -34,5 +34,5 @@
     "inventory_to_sales_ratio": 0.193,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T16:54:44.341226"
+  "fetched_at": "2026-10-22T17:08:47.875429"
 }

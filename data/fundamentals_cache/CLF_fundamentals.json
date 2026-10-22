@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CLF",
-    "fetch_date": "2026-10-15T16:59:11.605650",
+    "fetch_date": "2026-10-22T17:13:14.204588",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 4934000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.866,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T16:59:11.606922"
+  "fetched_at": "2026-10-22T17:13:14.206546"
 }

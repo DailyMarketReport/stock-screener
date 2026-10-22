@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WLTH",
-    "fetch_date": "2026-10-15T17:47:24.118616",
+    "fetch_date": "2026-10-22T18:01:30.894355",
     "quarterly_revenue": {
       "2025-07-31 00:00:00": 91123000.0,
       "2025-10-31 00:00:00": 93220000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 18.27,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:47:24.119588"
+  "fetched_at": "2026-10-22T18:01:30.895824"
 }

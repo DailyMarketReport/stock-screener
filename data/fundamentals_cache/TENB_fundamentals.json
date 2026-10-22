@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TENB",
-    "fetch_date": "2026-10-15T17:41:18.014255",
+    "fetch_date": "2026-10-22T17:55:24.576627",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 247295000.0,
       "2025-09-30 00:00:00": 252440000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 4.85,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:41:18.015232"
+  "fetched_at": "2026-10-22T17:55:24.578151"
 }

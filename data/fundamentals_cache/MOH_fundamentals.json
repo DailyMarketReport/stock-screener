@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MOH",
-    "fetch_date": "2026-10-15T17:23:11.624106",
+    "fetch_date": "2026-10-22T17:37:15.321388",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 11427000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 1.33,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:23:11.625111"
+  "fetched_at": "2026-10-22T17:37:15.322891"
 }

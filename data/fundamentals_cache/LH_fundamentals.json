@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LH",
-    "fetch_date": "2026-10-15T17:19:33.791925",
+    "fetch_date": "2026-10-22T17:33:39.443284",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 3527300000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.151,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:19:33.793254"
+  "fetched_at": "2026-10-22T17:33:39.445208"
 }

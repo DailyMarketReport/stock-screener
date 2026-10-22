@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BWA",
-    "fetch_date": "2026-10-15T16:56:23.635225",
+    "fetch_date": "2026-10-22T17:10:27.060605",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 3638000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.338,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T16:56:23.636502"
+  "fetched_at": "2026-10-22T17:10:27.062652"
 }

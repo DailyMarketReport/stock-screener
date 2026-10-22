@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "KRNY",
-    "fetch_date": "2026-10-15T17:18:20.847415",
+    "fetch_date": "2026-10-22T17:32:26.562616",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 40834000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": null,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:18:20.847975"
+  "fetched_at": "2026-10-22T17:32:26.563391"
 }

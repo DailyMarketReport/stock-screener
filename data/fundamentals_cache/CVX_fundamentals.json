@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CVX",
-    "fetch_date": "2026-10-15T17:02:03.704406",
+    "fetch_date": "2026-10-22T17:16:07.490661",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 44375000000.0,
       "2025-09-30 00:00:00": 48169000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.157,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:02:03.705689"
+  "fetched_at": "2026-10-22T17:16:07.492886"
 }

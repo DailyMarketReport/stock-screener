@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TIPT",
-    "fetch_date": "2026-10-15T17:41:44.142569",
+    "fetch_date": "2026-10-22T17:55:51.053460",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 142000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:41:44.143529"
+  "fetched_at": "2026-10-22T17:55:51.054956"
 }

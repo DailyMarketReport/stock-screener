@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "POST",
-    "fetch_date": "2026-10-16T17:14:01.906747",
+    "fetch_date": "2026-10-23T17:38:08.101725",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 1984300000.0,
       "2025-09-30 00:00:00": 2247000000.0,
@@ -34,5 +34,5 @@
     "inventory_to_sales_ratio": 0.477,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-16T17:14:01.908668"
+  "fetched_at": "2026-10-23T17:38:08.102997"
 }

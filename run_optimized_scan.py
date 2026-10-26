@@ -21,6 +21,16 @@ import logging
 import sys
 from datetime import datetime
 from pathlib import Path
+from src.screening.screener import check_my_investment_logic
+
+TICKER_POOL = ["AAPL", "NVDA", "MSFT", "GOOG", "0700.HK", "3690.HK", "9988.HK"]
+
+print("--- 開始執行自訂投資 Logic 篩選 ---")
+for ticker in TICKER_POOL:
+    res = check_my_investment_logic(ticker)
+    if res:
+        print(f"🔥 策略觸發：{res['Ticker']} ({res['Name']}) | 5年勝率: {res['60D_WinRate']} | 建議倉位: {res['Kelly_Position']}")
+print("--- 自訂篩選結束 ---")
 
 from src.data.universe_fetcher import USStockUniverseFetcher
 from src.screening.optimized_batch_processor import OptimizedBatchProcessor

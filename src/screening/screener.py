@@ -1,6 +1,7 @@
 def check_my_investment_logic(ticker_symbol):
     """
-    純美股投資Logic：市值>50億美元、成交>1000萬美元、ROE>15%、3年盈利增長>10% + 5年勝率回測
+    自訂美股投資Logic：市值>50億美元、成交額>1000萬美元、ROE>15%、3年盈利增長>10%
+    技術面優化：回踩50日線（2%內）且放寬 RSI < 45
     """
     try:
         import yfinance as yf
@@ -16,13 +17,13 @@ def check_my_investment_logic(ticker_symbol):
             
         # 2. 基本面：近3年盈利增長 > 10%
         financials = stock.financials
-        if "Net Income" not in financials.index or financials.shape[1] < 4:
+        if "Net Income" not in financials.index or financials.shape[0] < 4:
             return None
         net_inc = financials.loc["Net Income"].dropna()
-        if net_inc.iloc[0] <= 0 or (net_inc.iloc[0] - net_inc.iloc[3]) / net_inc.iloc[3] < 0.10:
+        if net_inc.iloc[0] <= 0 or (net_inc.iloc[0] - net_inc.iloc[2]) / net_inc.iloc[2] < 0.10:
             return None
 
-        # 3. 5年歷史數據回測技術面 (回踩50日線 + RSI<40) 與成交額
+        # 3. 5年歷史數據回測技術面 (回踩50日線 + RSI<45) 與成交額
         df = stock.history(period="5y")
         if len(df) < 250: return None
         
@@ -35,8 +36,8 @@ def check_my_investment_logic(ticker_symbol):
         df['RSI'] = ta.rsi(df['Close'], length=14)
         df.dropna(inplace=True)
         
-        # 訊號條件：現價在MA50的1.02倍內且RSI<40
-        df['Signal'] = (df['Close'] >= df['MA50']) & (df['Close'] <= df['MA50'] * 1.02) & (df['RSI'] < 40)
+        # 方案 B 核心：現價在MA50的1.02倍內，且將 RSI 門檻放寬至小於 45
+        df['Signal'] = (df['Close'] >= df['MA50']) & (df['Close'] <= df['MA50'] * 1.02) & (df['RSI'] < 45)
         
         signal_indices = df[df['Signal']].index
         total_signals = len(signal_indices)

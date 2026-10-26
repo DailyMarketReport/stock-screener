@@ -10,3 +10,4 @@ slack-sdk==3.44.0
 pyyaml==6.0.3
 numpy==2.5.2
 robin-stocks==3.4.0  # Read-only position tracking (optional)
+pandas-ta
